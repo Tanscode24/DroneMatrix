@@ -105,7 +105,7 @@ The 6-motor configuration provides:
 ---
 
 ##  Project Images
-(IMAGES/tanishka%20drone%20pic.jpg)
+![Hexacopter Build](IMAGES/tanishka%20drone%20pic.jpg)
 
 ---
 
