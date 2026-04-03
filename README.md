@@ -105,7 +105,7 @@ The 6-motor configuration provides:
 ---
 
 ##  Project Images
-(Add your images in the /images folder and link here)
+(IMAGES/tanishka%20drone%20pic.jpg)
 
 ---
 
