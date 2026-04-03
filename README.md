@@ -110,7 +110,7 @@ The 6-motor configuration provides:
 ---
 
 ##  Demo Video
-(Add your video link here)
+https://www.linkedin.com/posts/tanishka-2five_cdac-robotics-dronetechnology-activity-7425088515832606720-cPXu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFyULf4BDFNbMAskfraGLrsbn1_rfqHgIxM
 
 ---
 
